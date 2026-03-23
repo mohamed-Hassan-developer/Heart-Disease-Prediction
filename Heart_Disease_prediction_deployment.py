@@ -386,7 +386,7 @@ elif page =='Heart Disease Prediction' :
     # Load Model
     model = joblib.load('Catboost_Model.pkl')
 
-    # result = model.predict(predicted_data)[0]
+    result = model.predict(predicted_data)#[0]
 
     button = colA.button('Predict HD Probability')
 

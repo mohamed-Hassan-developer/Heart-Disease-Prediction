@@ -390,15 +390,15 @@ elif page =='Heart Disease Prediction' :
 
     button = colA.button('Predict HD Probability')
 
-    if button == True:
+    # if button == True:
 
-        if result == 1:
-            colA.error('HD Probabily Positive')
-            colA.write(model.predict_proba(predicted_data).round(3)[0][1] *100)
+    #     if result == 1:
+    #         colA.error('HD Probabily Positive')
+    #         colA.write(model.predict_proba(predicted_data).round(3)[0][1] *100)
 
-        else:
-            colA.success('HD Nigative')
-            colA.write(model.predict_proba(predicted_data).round(3)[0][1] *100)
+    #     else:
+    #         colA.success('HD Nigative')
+    #         colA.write(model.predict_proba(predicted_data).round(3)[0][1] *100)
 
 
     # Display Important Features Table

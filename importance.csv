@@ -1,0 +1,21 @@
+,Feature,Importance
+0,Num Pipeline__Age,10.899487694602513
+1,Num Pipeline__BMI,9.508139967474417
+2,Cat Pipeline__Stress Level,8.769705971930977
+3,Num Pipeline__Blood Pressure,8.069023444825524
+4,Num Pipeline__Homocysteine Level,7.895434820129092
+5,Num Pipeline__Fasting Blood Sugar,7.700787951642007
+6,Num Pipeline__Triglyceride Level,6.5266810678736755
+7,Num Pipeline__CRP Level,6.507150795228143
+8,Cat Pipeline__Sugar Consumption,5.931962711483104
+9,Num Pipeline__Sleep Hours,5.758590833986096
+10,Num Pipeline__Cholesterol Level,5.401629188702849
+11,Cat Pipeline__Exercise Habits,5.265835364998423
+12,Cat Pipeline__Alcohol Consumption,5.13647054815935
+13,Cat Pipeline__Gender,2.035884345485776
+14,Cat Pipeline__Diabetes,1.4386492035140164
+15,Cat Pipeline__High LDL Cholesterol,0.7336064158651036
+16,Cat Pipeline__Family Heart Disease,0.7113386070293735
+17,Cat Pipeline__Smoking,0.6093884898205784
+18,Cat Pipeline__Low HDL Cholesterol,0.6055111687379175
+19,Cat Pipeline__High Blood Pressure,0.4947214085110793

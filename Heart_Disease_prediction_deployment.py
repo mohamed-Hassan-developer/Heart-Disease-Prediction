@@ -358,7 +358,7 @@ elif page =='Heart Disease Prediction' :
 
     Cholesterol_Level_pre = col15.number_input('Cholesterol Level',min_value=100.000)
 
-    Alcohol_Consumption_pre = col16.selectbox('Alcohol Consumption', ['Low','Medium','High'])
+    Alcohol_Consumption_pre = col16.selectbox('Alcohol Consumption', ['never','Low','Medium','High'])
 
     col117.write("-----")
 

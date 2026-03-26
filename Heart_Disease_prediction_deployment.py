@@ -343,7 +343,7 @@ elif page =='Heart Disease Prediction' :
 
     High_Blood_Pressure_pre =col10.radio('High Blood Pressure',options=['No','Yes'],horizontal=True)
 
-    Blood_Pressure_pre = col11.number_input('Blood Pressure' )
+    Blood_Pressure_pre = col11.number_input('Blood Pressure',min_value=40 )
 
     Sleep_Hours_pre = col12.number_input('Sleep Hours',min_value=1.000,max_value=23.000)
 
